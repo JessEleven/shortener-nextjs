@@ -1,6 +1,6 @@
 {
   "name": "shortener-nextjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and practical open-source URL shortener.",
   "private": true,
   "scripts": {
